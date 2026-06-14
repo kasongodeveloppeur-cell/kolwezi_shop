@@ -1,0 +1,12 @@
+{
+  "helloWorld": "Hello World!",
+  "welcome_to_the_app": "Welcome to the app",
+  "change_theme": "Change Theme",
+  "change_language": "Change Language",
+  "quote1": "The only way to do great work is to love what you do.",
+  "quote2": "The best way to predict the future is to create it.",
+  "quote3": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+  "quote4": "Believe you can and you're halfway there.",
+  "quote5": "The only thing that is constant is change.",
+  "new_quote": "New Quote"
+}

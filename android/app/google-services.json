@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276404195287",
+    "project_id": "kolwezishop-87126781",
+    "storage_bucket": "kolwezishop-87126781.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276404195287:android:47083d1ae6d0a32dc80592",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8s-gjy98cM8tRO5KJcFZfUnSxP0JqNDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

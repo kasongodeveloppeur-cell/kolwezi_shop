@@ -1,0 +1,12 @@
+{
+  "helloWorld": "Bonjour le monde!",
+  "welcome_to_the_app": "Bienvenue dans l'application",
+  "change_theme": "Changer de thème",
+  "change_language": "Changer de langue",
+  "quote1": "La seule façon de faire du bon travail est d’aimer ce que vous faites.",
+  "quote2": "La meilleure façon de prédire l’avenir est de le créer.",
+  "quote3": "Le succès n’est pas final, l’échec n’est pas fatal : c’est le courage de continuer qui compte.",
+  "quote4": "Croyez que vous pouvez et vous êtes à mi-chemin.",
+  "quote5": "La seule chose qui est constante est le changement.",
+  "new_quote": "Nouvelle citation"
+}
